@@ -37,5 +37,5 @@ A plugin to check the server TPS and other players' ping. This plugin will be us
 KygekPingTPS plugin is made by KygekTeam and licensed under GPL-3.0.
 
 - Join our Discord server <a href="https://discord.gg/CXtqUZv">here</a> for latest updates from KygekTeam.
-- If you found bugs or want to give suggestions, please visit <a href="https://github.com/KygekTeam/KygekPingTPS-Nukkit/issues">here</a> or join our Discord server.
-- We accept all contributions! If you want to contribute please make a pull request in <a href="https://github.com/KygekTeam/KygekPingTPS-Nukkit/pulls">here</a>.
+- If you found bugs or want to give suggestions, please visit <a href="https://github.com/KygekTeam/KygekPingTPS-Spigot/issues">here</a> or join our Discord server.
+- We accept all contributions! If you want to contribute please make a pull request in <a href="https://github.com/KygekTeam/KygekPingTPS-Spigot/pulls">here</a>.
