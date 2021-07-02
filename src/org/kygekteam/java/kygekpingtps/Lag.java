@@ -1,5 +1,6 @@
 /* I couldn't find a vanilla method so this is there until we do.
- The script is by LazyLemons on the Bukkit forums. */
+The script is by LazyLemons on the Bukkit forums.
+https://bukkit.org/threads/get-server-tps.143410/ */
 
 package org.kygekteam.java.kygekpingtps;
 
